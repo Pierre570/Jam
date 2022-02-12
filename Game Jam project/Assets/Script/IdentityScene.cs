@@ -4,11 +4,10 @@ using UnityEngine;
 
 public class IdentityScene : MonoBehaviour
 {
-    public GameObject test;
     // Start is called before the first frame update
     void Start()
     {
-        test.GetComponent("Text");
+        Debug.Log("test 1 2");
     }
 
     // Update is called once per frame
