@@ -8,7 +8,6 @@ public class reader : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        ReadCsvFile();
     }
 
     public static List<Dictionary<string, object>> ReadCsvFile()
