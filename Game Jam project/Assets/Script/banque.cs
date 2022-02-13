@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class banque : MonoBehaviour
 {
-    public SpriteRenderer introSprite;
-    public Sprite banqueSprite;
+    public GameObject introSprite;
+    public GameObject banqueSprite;
     // Start is called before the first frame update
     void Start()
     {
@@ -13,7 +13,7 @@ public class banque : MonoBehaviour
     }
     void OnMouseDown()
     {
-        introSprite.sprite = banqueSprite;
+        introSprite = banqueSprite;
         Debug.Log("test banque");
     }
     // Update is called once per frame
