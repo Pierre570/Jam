@@ -30,7 +30,7 @@ public class reader : MonoBehaviour
             for (int i = 0; i < data_values.Length;i++)
             {
                 entry[id[i]] = data_values[i];
-                Debug.Log("Value:"+id[i] + " "+ entry[id[i]].ToString());
+                // Debug.Log("Value:"+id[i] + " "+ entry[id[i]].ToString());
             }
             list.Add(entry);
         }
