@@ -15,12 +15,12 @@ public class accept : MonoBehaviour
     {
         List<Dictionary<string, object>> list = new List<Dictionary<string, object>>();
         list = reader.ReadCsvFile();
-        Debug.Log("retest");
-        if (list[TextHandler.i]["fin"].ToString() == "1")
+        Debug.Log(list[TextHandler.tab[TextHandler.i]]["nom"].ToString());
+        if (list[TextHandler.tab[TextHandler.i]]["fin"].ToString() == "1")
             TextHandler.influence++;
-        if (list[TextHandler.i]["fin"].ToString() == "2")
+        else if (list[TextHandler.tab[TextHandler.i]]["fin"].ToString() == "2")
             TextHandler.rich++;
-        if (list[TextHandler.i]["fin"].ToString() == "3")
+        else if (list[TextHandler.tab[TextHandler.i]]["fin"].ToString() == "3")
             TextHandler.utile++;
         TextHandler.i++;
         TextHandler.count++;

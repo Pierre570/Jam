@@ -54,14 +54,15 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\Script\IdentityScene.cs" />
+    <Compile Include="Assets\Script\click_play.cs" />
     <Compile Include="Assets\Script\reader.cs" />
     <Compile Include="Assets\Script\accept.cs" />
     <Compile Include="Assets\Script\decline.cs" />
     <Compile Include="Assets\Script\identity.cs" />
+    <Compile Include="Assets\Script\click_del.cs" />
     <Compile Include="Assets\Script\TextHandler.cs" />
     <Compile Include="Assets\Script\banque.cs" />
-    <Compile Include="Assets\Script\click_play.cs" />
-    <Compile Include="Assets\Script\click_del.cs" />
+    <Compile Include="Assets\Script\click_intro.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

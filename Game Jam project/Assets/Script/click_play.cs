@@ -12,6 +12,11 @@ public class click_play : MonoBehaviour
     }
     private void OnMouseDown()
     {
+        TextHandler.count = 0;
+        TextHandler.i = 0;
+        TextHandler.utile = 0;
+        TextHandler.rich = 0;
+        TextHandler.influence = 0;
         SceneManager.LoadScene("SampleScene");
     }
     // Update is called once per frame

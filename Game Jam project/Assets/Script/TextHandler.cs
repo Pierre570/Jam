@@ -31,7 +31,7 @@ public class TextHandler : MonoBehaviour
     public GameObject accept;
     public static int i;
     public static int count;
-    public int[] tab;
+    public static int[] tab;
     public static int utile;
     public static int influence;
     public static int rich;
