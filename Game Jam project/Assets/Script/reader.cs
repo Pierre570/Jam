@@ -26,7 +26,6 @@ public class reader : MonoBehaviour
                 break;
             }
             var data_values = data_string.Split(';');
-            Debug.Log(data_values);
             for (int i = 0; i < data_values.Length;i++)
             {
                 entry[id[i]] = data_values[i];

@@ -1,22 +1,23 @@
-genre;nom;prenom;age;date_de_naisance ;ville de naisance;paye de naisance;nationaliter;adresse de résidance;taille;poids;signature;profession;entreprise;permis;photo;abone;like;vue;certifier;description;pseudo;post photo;post1;post2;post3;post4;post5;post6;post7;post8;post9;post10;infraction1;infraction2;infraction3;infraction4;infraction5;numero de compte;solde;date du dernier depo;date du dernier retrai;source de revenue;nom de la banque
-homme;kevine;trane;27;06/01/2033;pekin ;chine;française, chinoise;3 Rue du Dr Lucas Championniere ;1.77m;80kg;N/A;devlopeur;alstom;aucun ;N/A;359;28463;153120;non;;kekeDu78;N/A;;;;;;;;;;;;;;;;37452;7.000$;04/11/2060;16/11/2060;CDI alstom;bnp
-homme;liam;Singh;45;05/03/2015;brasilia;bresil;;;1.62m;74kg;N/A;;;B;N/A;436;34563;743624;non;;;N/A;;;;;;;;;;;;;;;;;;;;;
-femme;alice;simmons;36;07/03/2024;bruxelle;belgique;;;1.78m;84kg;N/A;;;B, A;N/A;24;246;1453;non;;;N/A;;;;;;;;;;;;;;;;;;;;;
-femme;sophia;owen;64;23/03/1996;paris;france;;;1.83m;102kg;N/A;;;B;N/A;234;12545;342543;non;;;N/A;;;;;;;;;;;;;;;;;;;;;
-homme;nathan;crawford;57;15/03/2003;nairobi;kenya;;;1.74m;67kg;N/A;;;B;N/A;3455;;;non;;;N/A;;;;;;;;;;;;;;;;;;;;;
-homme;leo;woodward;34;13/03/2026;lima;perou;;;1.68m;54kg;N/A;;;B, A;N/A;;;1507353;oui;;;N/A;;;;;;;;;;;;;;;;;;;;;
-femme;florence;hughes;46;05/03/2014;londres;royaume-uni;;;1.77m;70kg;N/A;;;aucun ;N/A;;;;non;;;N/A;;;;;;;;;;;;;;;;;;;;;
-femme;charlie;li;32;06/03/2028;al-dawha;qatar;;;1.68m;67kg;N/A;;;B;N/A;;;;non;;;N/A;;;;;;;;;;;;;;;;;;;;;
-homme;logan;riley;38;02/03/2022;new york;etats-unis;americain;;1.76m;74kg;N/A;;;aucun ;N/A;;;;non;;;N/A;;;;;;;;;;;;;;;;;;;;;
-homme;thomas;burke;45;08/03/2015;moscou;russie;russe;;1.62m;57kg;N/A;;;B;N/A;;;;non;;;N/A;;;;;;;;;;;;;;;;;;;;;
-homme;jacob;walker;27;06/03/2033;washington;etats-unis;americain;;1.83m;86kg;N/A;;;aucun ;N/A;;;3746383;oui;;;N/A;;;;;;;;;;;;;;;;;;;;;
-homme;charles;phillips;58;23/03/2002;londres;royaume-uni;;;1.56m;80kg;N/A;;;B;N/A;;;;non;;;N/A;;;;;;;;;;;;;;;;;;;;;
-femme;flavie;ray;37;14/03/2023;bruxelle;belgique;;;1.86m;98kg;N/A;;;B, A;N/A;;;;non;;;N/A;;;;;;;;;;;;;;;;;;;;;
-femme;rosalie;dunn;24;18/03/2036;los angeles;etats-unis;americain;;1.80m;79kg;N/A;;;B;N/A;;;;non;;;N/A;;;;;;;;;;;;;;;;;;;;;
-homme;arthur;campbell;46;04/03/2014;boston;etats-unis;americain;;1.68m;73kg;N/A;;;B;N/A;;;;non;;;N/A;;;;;;;;;;;;;;;;;;;;;
-femme;olivia;graham;69;19/03/1991;moscou;russie;russe;;1.76m;81kg;N/A;;;aucun ;N/A;;;;non;;;N/A;;;;;;;;;;;;;;;;;;;;;
-homme;lucas;mullins;64;20/03/1996;rome;italie;;;1.63m;68kg;N/A;;;B;N/A;;;2648363;oui;;;N/A;;;;;;;;;;;;;;;;;;;;;
-homme;raphael;williamson;85;03/03/1975;londres;royaume-uni;;;1.81m;85kg;N/A;;;B, A;N/A;;;;non;;;N/A;;;;;;;;;;;;;;;;;;;;;
-femme;emilie;weaver;63;05/03/1997;bruxelle;belgique;;;1.62m;63kg;N/A;;;B;N/A;;;;non;;;N/A;;;;;;;;;;;;;;;;;;;;;
-homme;benjamin;shelton;32;16/03/2028;tokyo;japon;;;1.77m;75kg;N/A;;;aucun ;N/A;;;1634862;oui;;;N/A;;;;;;;;;;;;;;;;;;;;;
-homme;antoine;rogers;25;05/03/2035;moscou;russie;russe;;1.67m;68kg;N/A;;;B, A;N/A;;;;non;;;N/A;;;;;;;;;;;;;;;;;;;;;
+sex;prenom;nom;age;date de naisance ;ville de naissance;nationaliter;taille;poids;profession ;permis;abone;like;vue;certifier;pseudo;infraction1;infraction2;numero de compte;solde;date du dernier depo;date du dernier retrai;source de revenue;nom de la banque;fin
+0;Kevin;TRAN;27;06/01/2033;Beijing;Francaise, Chinoise;1.77m;80kg;Developpeur;aucun ;359;28463;153120;non;kekeDu93;N/A;N/A;37452;7 340,00 €;04/11/2060;16/11/2060;Alstom;BNP;0
+0;Liam;SINGH;45;05/03/2015;Belem;Bresilienne;1.62m;74kg;Juriste;B;436;34563;743624;non;Theliam;N/A;N/A;83476;544 563,00 €;05/11/2060;17/11/2060;Casino;HSBC ;2
+1;Alice;SIMMONS;36;07/03/2024;Bruxelles;Belge;1.78m;84kg;Plombier;B, A;24;246;1453;non;alsim;N/A;N/A;43683;2 845,00 €;06/11/2060;18/11/2060;Service;ICBC;0
+1;Sophia;OWEN;64;23/03/1996;Paris;Francaise;1.83m;102kg;Investisseur;B;234;12545;342543;non;sophifam;harcelement moral;N/A;53474;2 385 048,00 €;07/11/2060;19/11/2060;Investissement;BNP;2
+0;Nathan;CRAWFORD;57;15/03/2003;Nairobi;Kenyane;1.74m;67kg;Professeur;B;3455;55345;545262;non;bestnat;N/A;N/A;34561;2,00 €;08/11/2060;20/11/2060;Service publique;ICBC;3
+0;Leo;WOODWARD;34;13/03/2026;Lima;Peruvienne ;1.68m;54kg;Actrice;B, A;473057;493732;12507353;oui;lil Wood;N/A;N/A;85428;10 234,00 €;09/11/2060;21/11/2060;Reseaux sociaux;HSBC ;1
+1;Florence;HUGUES;46;05/03/2014;Londres;Anglaise;1.77m;70kg;Banquier;aucun ;0;0;0;non;N/A;N/A;N/A;34582;684 649,00 €;10/11/2060;22/11/2060;BNP;BNP;2
+1;Charlie;LI;32;06/03/2028;Doha;Qatari;1.68m;67kg;Docteur;B;5;123;800;non;bebou34;N/A;N/A;79345;56 375,00 €;11/11/2060;23/11/2060;Hopitaux;HSBC ;3
+0;Logan;RILEY;38;02/03/2022;Miami;Americaine;1.76m;74kg;Senateur;aucun ;0;0;0;non;N/A;Fraude fiscale;detournement de fond;45682;1 348 237,00 €;12/11/2060;24/11/2060;Fraude fiscale;BNP;2
+0;Thomas;BURKEY;45;08/03/2015;Moscou;Russe;1.62m;57kg;Realisateur;B;84754;837495;2673462;oui;totobu;N/A;N/A;23474;-3 734,00 €;13/11/2060;25/11/2060;Reseaux sociaux;HSBC ;1
+0;Jacob;WALKER;27;06/03/2033;Chicago;Americaine;1.83m;86kg;Influenceur;aucun ;656839;2363858;37463283;oui;jacobFit;N/A;N/A;23475;-250,00 €;14/11/2060;26/11/2060;Reseaux sociaux;ICBC;1
+0;Charles;PHILIPS;68;23/03/1992;Manchester;Anglaise;1.56m;80kg;Hotelier;B;0;0;0;non;N/A;vol a main armee;N/A;23573;14 864,00 €;15/11/2060;27/11/2060;Hotel;BNP;0
+1;Flavie;RAY;37;14/03/2023;Liege;Belge;1.86m;98kg;Joueur de foot;B, A;2342;12312;213113;non;flaray;N/A;N/A;12324;12 647 347,00 €;16/11/2060;28/11/2060;Prestations;ICBC;2
+1;Rosalie;DUNN;24;18/03/2036;New York;Americaine;1.80m;79kg;Agricultrice;B;467;63474;123113;non;flora;N/A;N/A;28453;30 476,00 €;17/11/2060;29/11/2060;Service;HSBC ;3
+0;Arthur;CAMPBELL;46;04/03/2014;Dallas;Americaine;1.68m;73kg;Acteur;B;12;54;256;non;arthur_campbell;N/A;N/A;27453;2 737 464,00 €;18/11/2060;30/11/2060;Films;BNP;2
+1;Olivia;GRAHAM;69;19/03/1991;Kiev;Russe;1.76m;81kg;Retraite;aucun ;0;0;0;non;N/A;N/A;N/A;85730;900 001,02 €;19/11/2060;01/12/2060;Investissement;HSBC ;2
+0;Lucas;MULLINS;64;20/03/1996;Rome;Italienne;1.63m;68kg;Tiktokeur;B;275947;8333745;26428363;oui;lucasplatcho;N/A;N/A;93569;128 738,00 €;20/11/2060;02/12/2060;Reseaux sociaux;ICBC;1
+0;Raphael;WILLIAMSON;85;03/03/1975;Londres;Anglaise;1.81m;85kg;Retraite;B, A;0;0;0;non;N/A;N/A;N/A;12307;-780,00 €;21/11/2060;03/12/2060;RSA;BNP;0
+1;Emilie;WEAVER;63;05/03/1997;Bruxelles;Belge;1.62m;63kg;Mannequin;B;67;345;5235;non;emilw;N/A;N/A;82656;348 237,00 €;22/11/2060;04/12/2060;Prestations;HSBC ;2
+0;Benjamin;SHELTON;32;16/03/2028;Osaka;Japonaise;1.77m;75kg;Videaste;aucun ;137583;9443838;16342862;oui;ben_J;N/A;N/A;73954;1 111,00 €;23/11/2060;05/12/2060;Reseaux sociaux;ICBC;1
+0;Antoine;ROGERS;25;05/03/2035;Sydney;Russe;1.67m;68kg;Mecanicien;B, A;37;173;3840;non;rogers Tango;vol a main armee;N/A;93665;364,00 €;24/11/2060;06/12/2060;Services;BNP;3
+2;Gorillaz;Bananaz;44;05/03/2018;Inde;Indienne;2.25m;214kg;Investisseur;A;0;0;0;0;donkeykong;N/A;N/A;54568;348 237,00 €;25/11/2060;06/11/2060;Investissement;Banana Money;2
